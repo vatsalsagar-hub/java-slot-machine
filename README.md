@@ -1,6 +1,6 @@
 # Java Slot Machine
 
-A rebuilt and expanded version of an earlier Java course project. This portfolio version simulates a five-reel slot machine with account persistence, randomized spins, balance management, payout logic, session statistics, and spin history.
+A reconstructed and expanded version of an earlier Java course project. This portfolio version simulates a five-reel slot machine with account persistence, randomized spins, balance management, payout logic, session statistics, and spin history.
 
 ## Features
 
@@ -56,6 +56,6 @@ java-slot-machine/
 
 ## Portfolio Note
 
-This repository is a rebuilt version of an earlier Java slot-machine course project whose original source file was no longer available. The portfolio version was reconstructed from preserved project requirements and then extended with stats, spin history, and clearer payout rules.
+This repository is a reconstructed version of an earlier Java slot-machine course project whose original source file was no longer available. The portfolio version was reconstructed from preserved project requirements and then extended with stats, spin history, and clearer payout rules.
 
 **Author:** Vatsal Sagar
